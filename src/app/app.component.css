@@ -1,0 +1,16 @@
+.pending{
+    color: grey;
+}
+
+.correct{
+    color: green;
+    font-weight: bold;
+}
+
+.incorrect{
+    color: red;
+}
+
+#message{
+    color: green;
+}
